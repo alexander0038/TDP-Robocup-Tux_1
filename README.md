@@ -1,7 +1,8 @@
 # TEAM TUX_2 ROBOCUP PAGE
 
-#### Email: tux2.gr@protonmail.com
-#### Youtube: https://www.youtube.com/@Tux_2_gr
+#### Email: info.tux.1@proton.me
+#### Youtube: https://www.youtube.com/@Tux_1_gr
+#### Website: https://tuxgm.onrender.com
 
 ## General information about us:
 We are Tux_2, a team from Rahden, a small town in North Rhine-Westphalia near Bielefeld. Our team consists of **Alexander Belov (Software, Team Captain)**, **Toni Schürmann (Hardware)**, **Max Harting (Hardware)** and **Elia Sky Freichel (Newcomer in Hardware)**. We compete in the RoboCupJunior Soccer Lightweight League for the first time after being in the Soccer Entry League for two years.
@@ -10,7 +11,7 @@ During our first time competing in RoboCup, we were separate teams: Tux_3 (Alexa
 
 However, the second year was more of a success. We forged our both teams into one and participated as the team Tux_3. We also finished in the Berlin qualification as the 2nd place and made our way to the German Open in Cologne. In Cologne we fought hard and were temporarily the 1st place, but sadly finished 4th and nearly qualified to the European Championship.
 
-After long consideration and thinking, we said goodbyes to Henning and searched for a new team member. Then Elia joined our team and decided to help us. Now we are working on the robot for the next competition. Our next goal will be the European Championship.
+After long consideration and thinking, we said our goodbyes to Henning and searched for a new team member. Then Elia joined our team and decided to help us. Now we are working on the robot for the next competition. Our next goal will be the European Championship.
 
 ---
 
